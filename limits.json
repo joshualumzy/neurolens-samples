@@ -1,0 +1,17 @@
+{
+  "cancel_seconds": 15,
+  "colour_range": 0.5,
+  "consent_version": "2026-11-03",
+  "curve_length_tolerance_s": 2,
+  "curve_min_views": 1000,
+  "invite_seconds": 300.0,
+  "max_batch_files": 5,
+  "max_upload_bytes": 300000000,
+  "max_video_duration_seconds": 120,
+  "price": {
+    "allowance_seconds": 0.5,
+    "block_seconds": 30,
+    "cents_per_block": 100
+  },
+  "result_retention_days": 30
+}
